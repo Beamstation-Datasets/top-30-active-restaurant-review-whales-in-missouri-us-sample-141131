@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Missouri, US
 
-> Free BeamStation sample export with 39 rows and masked direct-contact fields.
+> Free BeamStation sample export with 32 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `141131` |
 | Location | Missouri |
 | Category | Restaurants |
-| Full dataset size | 396 records |
-| Free sample size | 39 records (9.85%) |
-| Last export | 2026-04-14T23:34:30.541662+00:00 |
+| Full dataset size | 324 records |
+| Free sample size | 32 records (9.88%) |
+| Last export | 2026-04-22T03:05:24.897492+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-missouri-us-sample-141131/releases/download/sample-latest/beamstation_141131_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
