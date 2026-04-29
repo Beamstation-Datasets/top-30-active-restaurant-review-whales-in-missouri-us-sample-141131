@@ -1,12 +1,12 @@
 {
-  "export_job_id": "676bbbff-20dd-4018-ab6b-a54a14b401ee",
+  "export_job_id": "2fb08186-c1bd-418c-aa74-7311ea10a049",
   "id_short": 141131,
-  "published_at": "2026-04-22T07:07:30Z",
+  "published_at": "2026-04-29T07:21:32Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-missouri-us-sample-141131",
   "sample_asset_name": "beamstation_141131_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/141131/beamstation_141131_restaurants-us-mo_SAMPLE_DIST.csv",
-  "sample_records": 32,
-  "sample_sha256": "1cae2bf1b123b2f3f7468a1037e1b063a4fb506d84e79601b9f34ac7596749ef",
-  "sample_size_bytes": 144509,
-  "total_records": 324
+  "sample_records": 23,
+  "sample_sha256": "264f4d24de41bf7452bdbe97cf0a27989734a40d36a22d46bda71b472a327c58",
+  "sample_size_bytes": 118062,
+  "total_records": 239
 }
